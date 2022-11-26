@@ -1,7 +1,11 @@
 import React from "react";
 
 function Footer() {
-  return <div></div>;
+  return (
+    <div>
+      <p>再见</p>
+    </div>
+  );
 }
 
 export default Footer;
