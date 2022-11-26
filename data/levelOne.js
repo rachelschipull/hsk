@@ -1,4 +1,4 @@
-const levelOneWords = [
+export const levelOneWords = [
   {
     English: "love",
     Pinyin: "ài",
@@ -35,5 +35,3 @@ const levelOneWords = [
     Category: "pronoun",
   },
 ];
-
-export default levelOneWords;
