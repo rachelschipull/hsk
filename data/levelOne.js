@@ -1,4 +1,53 @@
 export const levelOneWords = [
+   {
+    English: "noon",
+    Pinyin: "zhōngwǔ",
+    Simplified: "中午",
+    Traditional: "中午",
+    Category: "noun",
+  },   
+  {
+    English: "live",
+    Pinyin: "zhù",
+    Simplified: "住",
+    Traditional: "住",
+    Category: "verb",
+  },
+  {
+    English: "desk, table",
+    Pinyin: "zhuōzi",
+    Simplified: "桌子",
+    Traditional: "桌子",
+    Category: "noun",
+  },  
+  {
+    English: "character",
+    Pinyin: "zì",
+    Simplified: "字",
+    Traditional: "字",
+    Category: "noun",
+  }, 
+  {
+    English: "yesterday",
+    Pinyin: "zuótiān",
+    Simplified: "昨天",
+    Traditional: "昨天",
+    Category: "noun",
+  },  
+  {
+    English: "sit",
+    Pinyin: "zuò",
+    Simplified: "坐",
+    Traditional: "坐",
+    Category: "verb",
+  },  
+  {
+    English: "do",
+    Pinyin: "zuò",
+    Simplified: "做",
+    Traditional: "做",
+    Category: "verb",
+  },
   {
     English: "love",
     Pinyin: "ài",
