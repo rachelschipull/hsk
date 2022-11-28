@@ -1,4 +1,46 @@
 export const levelOneWords = [
+      {
+    English: "goodbye",
+    Pinyin: "zàijiàn",
+    Simplified: "再见",
+    Traditional: "再見",
+    Category: "interjection",
+  },  
+   {
+    English: "how",
+    Pinyin: "zěnme",
+    Simplified: "怎么",
+    Traditional: "怎麼",
+    Category: "pronoun",
+  }, 
+   {
+    English: "how",
+    Pinyin: "zěnme yàng",
+    Simplified: "怎么样",
+    Traditional: "怎麼樣",
+    Category: "pronoun",
+  },   
+   {
+    English: "this",
+    Pinyin: "zhè",
+    Simplified: "这",
+    Traditional: "這",
+    Category: "pronoun",
+  }, 
+   {
+    English: "here",
+    Pinyin: "zhèr",
+    Simplified: "这儿",
+    Traditional: "這兒",
+    Category: "pronoun",
+  }, 
+   {
+    English: "China",
+    Pinyin: "zhōngguó",
+    Simplified: "中国",
+    Traditional: "中國",
+    Category: "noun",
+  }, 
    {
     English: "noon",
     Pinyin: "zhōngwǔ",
